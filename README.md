@@ -1,1 +1,3 @@
-# appcalculator
+# OIBSIP_TASK2
+
+CALCULATOR  USING HTML CSS JS
